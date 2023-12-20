@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+    <loc>http://localhost/skygarden/</loc>
+    <lastmod>2023-12-15T16:18:58+05:45</lastmod>
+    <priority>1</priority>
+</url>
+
+        <url>
+            <loc>http://localhost/skygarden/home</loc>
+            <lastmod>2023-12-15T16:18:58+05:45</lastmod>
+            <priority>0.9</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/contact-us</loc>
+            <lastmod>2023-12-15T16:18:58+05:45</lastmod>
+            <priority>0.9</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/services</loc>
+            <lastmod>2023-12-15T16:18:58+05:45</lastmod>
+            <priority>0.9</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/gallery-list</loc>
+            <lastmod>2023-12-15T16:18:58+05:45</lastmod>
+            <priority>0.9</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/natural-beauty</loc>
+            <lastmod>2023-12-14T16:23:28+05:45</lastmod>
+            <priority>0.75</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/experiences-like-no-other</loc>
+            <lastmod>2023-09-20T16:20:00+05:45</lastmod>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/dining</loc>
+            <lastmod>2023-09-20T13:00:44+05:45</lastmod>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/hall</loc>
+            <lastmod>2023-09-19T16:56:26+05:45</lastmod>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/rooms</loc>
+            <lastmod>2023-09-20T17:04:23+05:45</lastmod>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/standard-room</loc>
+            <lastmod>2023-12-14T13:18:08+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/pine-hall</loc>
+            <lastmod>2023-09-21T11:56:22+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/deluxe-room</loc>
+            <lastmod>2023-09-19T17:43:58+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/cosmos-cafe</loc>
+            <lastmod>2023-09-21T12:06:48+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/rosewood-hall</loc>
+            <lastmod>2023-09-20T12:34:56+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/maple-hall</loc>
+            <lastmod>2023-09-20T12:24:16+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/family-suite</loc>
+            <lastmod>2023-09-20T11:46:48+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/nebula-restaurant</loc>
+            <lastmod>2023-09-18T13:00:44+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/luna-restaurant</loc>
+            <lastmod>2023-09-20T12:15:06+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/executive-room</loc>
+            <lastmod>2023-09-19T17:55:14+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/orion-restaurant</loc>
+            <lastmod>2023-09-20T12:15:59+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/suite-room</loc>
+            <lastmod>2023-09-20T11:59:13+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/superior-suite</loc>
+            <lastmod>2023-09-20T16:14:46+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/nova-sky-bar</loc>
+            <lastmod>2023-09-20T17:14:01+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/rooftop-terrace</loc>
+            <lastmod>2023-09-20T17:20:34+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/newsubpkg</loc>
+            <lastmod>2023-09-21T12:16:45+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost/skygarden/wedding-and-events</loc>
+            <lastmod>2023-09-20T17:20:50+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    </urlset>
